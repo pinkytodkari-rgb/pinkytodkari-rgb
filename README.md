@@ -117,14 +117,6 @@ Attendance, Membership and Complaint Management Platform.
 
 ---
 
-# 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=pinkytodkari-rgb\&theme=tokyonight\&no-frame=true\&row=1)
-
-
----
-
-
 # 🤝 Connect With Me
 
 💼 LinkedIn:https://www.linkedin.com/in/pinkytodkari
