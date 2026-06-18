@@ -121,35 +121,9 @@ Attendance, Membership and Complaint Management Platform.
 
 ![](https://github-profile-trophy.vercel.app/?username=pinkytodkari-rgb\&theme=tokyonight\&no-frame=true\&row=1)
 
----
-
-# 🎯 2026 Goals
-
-✅ Contribute to Open Source Projects
-
-✅ Complete GSSoC'26 Successfully
-
-✅ Complete SSoC'26 Successfully
-
-✅ Build Production-Level AI Applications
-
-✅ Strengthen Full Stack Development Skills
 
 ---
 
-# 🏅 Achievements
-
-🏆 Smart India Hackathon Participant
-
-🏆 GSSoC'26 Contributor
-
-🏆 SSoC'26 Open Source Contributor
-
-🏆 Machine Learning Developer
-
-🏆 Full Stack Developer
-
----
 
 # 🤝 Connect With Me
 
